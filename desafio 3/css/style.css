@@ -1,0 +1,17 @@
+body{
+    background-color: red;
+}
+
+.imagen{
+    width: 900px; 
+    height: 600px;
+    border: 2px solid #000;
+
+    background-image: url("cocacola.PNG");
+
+    resize: both;
+    overflow: auto;
+
+    background-repeat: round;
+}
+
